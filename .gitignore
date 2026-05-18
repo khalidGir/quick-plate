@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+food_bot.db
+.idea/
+.DS_Store
+config.bat
+node_modules
